@@ -1,3 +1,7 @@
+# Deprecated!
+
+If you got here somehow looking for a PureScript GQL solution please refer to [purescript-graphql-client](https://github.com/purescript-graphql-client/purescript-graphql-client) instead. [srghma](https://github.com/srghma) has picked up the work started here in that repository.
+
 # purescript-fernet
 
 *Extremely WIP*
